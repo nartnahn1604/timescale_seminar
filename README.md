@@ -21,7 +21,7 @@
 | Research all information about timescaledb | Basic information of timescaledb                             | Hồ Mạnh Tiến                   |                         |
 | Research sample cases of using timescaledb | Have at least 3 different cases and explanation for each one | Nguyễn Quốc Vinh               |                         |
 | Installation                               | Demo installation and configuration                          | Trần Văn Nhân                  |                         |
-| Find a dataset for demo                    | Dataset suits main reason òf using timescale                 | Nguyễn Quốc Vinh, Hồ Mạnh Tiến | Clean data ìf necessary |
+| Find a dataset for demo                    | Dataset suits main reason of using timescale                 | Nguyễn Quốc Vinh, Hồ Mạnh Tiến | Clean data ìf necessary |
 | Build demo bases on the dataset            | Demo video                                                   | Trần Văn Nhân                  |                         |
 
 ## Introduction
